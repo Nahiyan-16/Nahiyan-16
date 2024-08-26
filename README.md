@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nahiyan Ahmed
 - 👀 I’m interested in solving problems and creating excellence
-- 🌱 I’m currently learning advance web development
+- 🌱 I’m currently learning about Information Technology
 - 📫 You can reach me at nahiyanahmed11@gmail.com
 
 <!---
